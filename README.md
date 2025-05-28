@@ -1,58 +1,26 @@
-Overview
-This HTML page provides information about hostel room allocation, including rules, facilities, room types, and pricing.
+📋 Overview
+The Hostel Room Allocation System is a software application designed to streamline the process of assigning hostel rooms to students in an efficient, transparent, and user-friendly manner. This system ensures fair distribution based on predefined criteria such as academic year, gender, preferences, and availability.
 
-File Structure
-index.html - Main HTML file containing the room allocation information
+🚀 Features
+Admin panel to manage students, rooms, and allocations
 
-Features
-Clean section-based layout for room allocation information
+Automatic room allocation based on rules (e.g., year, department, gender)
 
-Responsive image display
+Manual override for special cases
 
-Organized lists for rules and facilities
+Student portal to view allocation status and room details
 
-Pricing table for different room types
+Conflict resolution and waitlist handling
 
-Informative paragraphs about hostel life
+Allocation history tracking
 
-Usage
-Open the index.html file in any modern web browser
+Secure login for students and administrators
 
-Navigate through the different sections:
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript / React (if web-based)
 
-Room allocation rules
+Backend: Node.js / Django / Flask / PHP
 
-Available facilities
+Database: MySQL / PostgreSQL / MongoDB
 
-Room type descriptions
-
-Pricing table
-
-Notes
-The image URL currently points to a Google search result and may not display properly. Consider replacing it with a direct image link.
-
-The content includes:
-
-Hostel rules and regulations
-
-Detailed facility descriptions
-
-Room type explanations
-
-Pricing information in a table format
-
-Motivational quotes about hostel life
-
-Customization
-You can easily modify:
-
-Image source by changing the src attribute
-
-Pricing information in the table
-
-Rules and facilities lists
-
-Any text content
-
-Browser Compatibility
-The page should work in all modern browsers including Chrome, Firefox, Safari, and Edge
+Authentication: JWT / Session-based
